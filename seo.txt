@@ -1,0 +1,8 @@
+edit:
+/app/robots.ts
+/app/sitemap.ts
+/app/layout.tsx
+/components/ui/PersonSchema.tsx
+
+domain change
+change data/projects.ts
